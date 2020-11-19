@@ -75,7 +75,7 @@ const Canvas = (props) => {
 };
 
 function App() {
-  const [word, setWord] = useState("THE LIFE OF");
+  const [word, setWord] = useState("THE LIFE OF PABLO");
   const [which, setWhich] = useState(0);
 
   const xywh = [
